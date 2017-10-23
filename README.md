@@ -18,10 +18,12 @@ A step by step series of examples that tell you how to get a development environ
 
 Say what steps will be
 
-`Give examples
-`
+```
+Give examples
+```
 
 And repeat
 
-`until finished
-`
+```
+until finished
+```
