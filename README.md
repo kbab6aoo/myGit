@@ -70,7 +70,7 @@ We use SemVer for versioning.  For the version available, see the tags on this r
 
 ## Authors
 
--	Yomi Ogunyinka	- _Initial work_ - Jagho Consultants
+-	Yomi Ogunyinka	- _Initial work_ - Jagho Consultants..!
 
 See also the list of contributors who participated in this project
 
